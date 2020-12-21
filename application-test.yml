@@ -1,2 +1,2 @@
-server:
-  port: 88881
+config:
+  version: 1
